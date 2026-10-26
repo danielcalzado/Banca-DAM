@@ -1,11 +1,5 @@
 ## PROYECTO 1º DAM SIMULACIÓN DE UN BANCO
 
-### Cosas que faltan por añadir:
-- ~~HashMap~~
-- Ficheros (serialización)
-
-### Más adelante se añadirá:
-- Implementación de Bases de Datos
-- Swing
+# Proyecto en Java desarrollado en el primer año de DAM, centrado en la base de java (POO, abstracción, polimorfismo, herencia, Interfaces...)
 
 
